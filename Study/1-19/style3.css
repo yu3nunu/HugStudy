@@ -1,0 +1,88 @@
+body {
+	width: 100%;
+}
+.wrapper {
+	width: 400px;
+	margin: 0 auto;
+}
+.header {
+	width: 100%;
+	height: 100px;
+	background: #ffce7a;
+}
+.contents-boxs {
+    float: right;
+    width: 160px;
+    height: 60px;
+	background-color: white;
+	margin: 20px 20px 0 0;
+}
+.boxs-1{
+	float: right;
+	width: 40px;
+	height: 40px;
+	background-color: #c2ffc8;
+	margin: 10px 10px 10px 5px;
+}
+.boxs-2{
+	float: right;
+	width: 40px;
+	height: 40px;
+	background-color: #c2ffc8;
+	margin: 10px 5px;
+}
+.boxs-3{
+	float: right;
+	width: 40px;
+	height: 40px;
+	background-color: #c2ffc8;
+	margin: 10px 5px;
+}
+.content {
+	float: left;
+	width: 150px;
+	height: 250px;
+	background: #9dddf4;
+}
+.side {
+	float: right;
+	width: 250px;
+	height: 250px;
+	background: #c2ffc8;
+}
+.box-a {
+	float: right;
+	width: 130px;
+	height: 40px;
+	background-color: #ffc2c5;
+	margin:40px 60px 5px 40px;
+	border: 5px solid white;
+}
+.box-b {
+	float: right;
+	width: 130px;
+	height: 40px;
+	background-color: #ffc2c5;
+	margin:5px 60px 5px 40px;
+	border:5px solid white;
+}
+.box-c {
+	float: right;
+	width: 130px;
+	height: 40px;
+	background-color: #ffc2c5;
+	margin:5px 60px 40px 40px;
+	border:5px solid white;
+}
+.footer {
+	width: 100%;
+	height: 100px;
+	background: #bea5ff;
+}
+.clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+	height: 0;
+	visibility: hidden;
+}
