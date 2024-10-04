@@ -37,7 +37,7 @@ public class Task2_7 {
 
 
        // ⑥下記の処理について、何をしているのかコメントを記入して下さい。
-       // [10と40を足した数を出力]
+       // [10と50を足した数を出力]
         System.out.println(intArray[0] + intArray[4]);
 
 
