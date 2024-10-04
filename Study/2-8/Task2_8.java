@@ -33,7 +33,7 @@ public class Task2_8 {
 
 
     // ③下記の処理について、何をしているのかコメントを記入して下さい。
-    // [10*2=20(multiply)]
+    // [multiplyに10×2＝20の値をいれる]
     int multiply = 10 * 2;
 
 
